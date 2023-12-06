@@ -1,1 +1,0 @@
-web: gunicorn week5.app: app
