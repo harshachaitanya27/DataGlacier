@@ -1,0 +1,8 @@
+columns:
+- image
+dataset_name: train
+file_name: train
+file_type: csv
+inbound_delimiter: ','
+outbound_delimiter: '|'
+skip_leading_rows: 1
